@@ -21,10 +21,11 @@ This project Uses
   Step 5. Temperature Reading will be displayed.
   
   
+  /* In the Android App */
   If temperature goes above 25 °C Degrees Celsius
-  then an alarm will go off causing the cellphone to vibrate 
+  then an alarm will go off causing the Android Device to vibrate 
   and also to produce the default alarm notification sound on 
-  the cellphone.
+  the Android Device.
   
   
   
